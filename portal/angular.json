@@ -30,6 +30,7 @@
           },
           "configurations": {
             "production": {
+              "baseHref": "/prova-pratica-angular/",
               "budgets": [
                 {
                   "type": "initial",
